@@ -8,7 +8,7 @@ namespace MyCompiler
     {
         public static void Main(string[] args)
         {
-            string path = @"Day2.txt";
+            string path = @"..\..\..\..\Day2.txt";
             string[] inString = File.ReadAllLines(path);
 
             String[] colorStr = new String[]{

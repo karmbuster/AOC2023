@@ -6,7 +6,7 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        string path = @"Day1.txt";
+        string path = @"..\..\..\..\Day1.txt";
         using (StreamReader sr = File.OpenText(path))
         {
             string s;
