@@ -1,0 +1,14 @@
+c:\Users\karmb\OneDrive\Documents\Advent of Code\2023\Day1\Day1_CS\obj\Debug\net8.0\Day1_CS.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\karmb\OneDrive\Documents\Advent of Code\2023\Day1\Day1_CS\obj\Debug\net8.0\Day1_CS.AssemblyInfoInputs.cache
+c:\Users\karmb\OneDrive\Documents\Advent of Code\2023\Day1\Day1_CS\obj\Debug\net8.0\Day1_CS.AssemblyInfo.cs
+c:\Users\karmb\OneDrive\Documents\Advent of Code\2023\Day1\Day1_CS\obj\Debug\net8.0\Day1_CS.csproj.CoreCompileInputs.cache
+c:\Users\karmb\OneDrive\Documents\Advent of Code\2023\Day1\Day1_CS\bin\Debug\net8.0\Day1_CS.exe
+c:\Users\karmb\OneDrive\Documents\Advent of Code\2023\Day1\Day1_CS\bin\Debug\net8.0\Day1_CS.deps.json
+c:\Users\karmb\OneDrive\Documents\Advent of Code\2023\Day1\Day1_CS\bin\Debug\net8.0\Day1_CS.runtimeconfig.json
+c:\Users\karmb\OneDrive\Documents\Advent of Code\2023\Day1\Day1_CS\bin\Debug\net8.0\Day1_CS.dll
+c:\Users\karmb\OneDrive\Documents\Advent of Code\2023\Day1\Day1_CS\bin\Debug\net8.0\Day1_CS.pdb
+c:\Users\karmb\OneDrive\Documents\Advent of Code\2023\Day1\Day1_CS\obj\Debug\net8.0\Day1_CS.dll
+c:\Users\karmb\OneDrive\Documents\Advent of Code\2023\Day1\Day1_CS\obj\Debug\net8.0\refint\Day1_CS.dll
+c:\Users\karmb\OneDrive\Documents\Advent of Code\2023\Day1\Day1_CS\obj\Debug\net8.0\Day1_CS.pdb
+c:\Users\karmb\OneDrive\Documents\Advent of Code\2023\Day1\Day1_CS\obj\Debug\net8.0\Day1_CS.genruntimeconfig.cache
+c:\Users\karmb\OneDrive\Documents\Advent of Code\2023\Day1\Day1_CS\obj\Debug\net8.0\ref\Day1_CS.dll
